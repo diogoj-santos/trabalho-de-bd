@@ -372,7 +372,7 @@ def executar_sql(query):
         return f"Erro: {str(e)}"
 
 # Interface Gráfica com Streamlit
-st.title("Consultas no Banco de Dados")
+st.title("TRABALHO DE BD: CONSULTAS E VIZ DAS TABELAS")
 
 # Visualizar tabelas disponíveis
 st.subheader("🔍 Visualizar Tabelas")
